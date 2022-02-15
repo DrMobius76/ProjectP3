@@ -1,0 +1,10 @@
+/* Page base styling */
+body {
+    background-color: rgb(181, 238, 255);
+}
+
+h1 {
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;    
+}
