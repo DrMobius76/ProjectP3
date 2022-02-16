@@ -1,0 +1,22 @@
+/* Page base styling */
+body {
+    background-color: rgb(181, 238, 255);
+}
+
+h1, ul {
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;    
+}
+
+li, a/*, ul*/{
+    /*text-decoration: none;*/
+    text-align: center;
+    list-style-type: none;
+    display: inline;
+    display: block;
+    padding: 8px;
+    background-color: none;
+    float:  left;
+    color: #00000f;
+}
